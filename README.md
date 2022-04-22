@@ -2,7 +2,7 @@
 Liens des documents utiles
 
 
-SAP BTP 
+SAP BTP
 Region
 US East (VA) - AWS
 Global Account
